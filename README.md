@@ -1,2 +1,2 @@
 # TangramGame
-Copy mobile tangram game
+Copy mobile tangram game v0.0.1
